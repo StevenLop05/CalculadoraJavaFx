@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="CalculadoraObjetos2018151.jnlp">
+  <information>
+    <title>CalculadoraObjetos2018151</title>
+    <vendor>informatica</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="CalculadoraObjetos2018151.jar" size="265156" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="org.stevenlopez.system.Principal"  name="CalculadoraObjetos2018151" />
+  <update check="always"/>
+</jnlp>
